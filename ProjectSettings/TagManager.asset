@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sinir
+  - Bomba
+  - Mermi
+  - At
+  - Balik
+  - Kedi
+  - SlahPoint
+  - Enemy
+  - Sinir2
+  - Soldier
+  - Siper
+  - AlanSinir
+  - SoldierPoint
+  - SoldierButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 8
+  - 9
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 0
+    uniqueID: 4010529067
+    locked: 0
+  - name: 1
+    uniqueID: 1630590493
+    locked: 0
+  - name: 2
+    uniqueID: 2785403635
+    locked: 0
+  - name: 3
+    uniqueID: 1302064559
+    locked: 0
+  - name: 10
+    uniqueID: 1045875245
+    locked: 0
+  - name: 11
+    uniqueID: 3496646371
+    locked: 0
